@@ -58,6 +58,7 @@ import venly from "./assets/wallets/venly.png";
 import wirex from "./assets/wallets/wirex.png";
 import worldcoin from "./assets/wallets/worldcoin.png";
 import xdefi from "./assets/wallets/xdefi.png";
+import xrph from "./assets/wallets/xrph.png";
 import xverse from "./assets/wallets/xverse.png";
 import zeal from "./assets/wallets/zeal.png";
 import zerion from "./assets/wallets/zerion.png";
@@ -608,6 +609,10 @@ export const moreWallets = [
   {
     name: "xdefi",
     icon: xdefi,
+  },
+  {
+    name: "Xrph",
+    icon: xrph,
   },
   {
     name: "xverse",
