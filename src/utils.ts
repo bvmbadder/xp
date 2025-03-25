@@ -48,6 +48,8 @@ import rise from "./assets/wallets/rise.png";
 import robinhood from "./assets/wallets/robinhood.png";
 import runesbridge from "./assets/wallets/runesbridge.png";
 import simplehold from "./assets/wallets/simplehold.png";
+import tangem from "./assets/wallets/tangem-logo.png";
+import trustwallet from "./assets/wallets/trustwallet.webp";
 import torus from "./assets/wallets/torus.png";
 import tribes from "./assets/wallets/tribes.png";
 import trubit from "./assets/wallets/trubit.png";
@@ -390,6 +392,10 @@ export const moreWallets = [
     icon: Metamask,
   },
   {
+    name:"Trust Wallet",
+    icon: trustwallet,
+  },
+  {
     name: "abc",
     icon: abc,
   },
@@ -568,6 +574,10 @@ export const moreWallets = [
   {
     name: "simplehold",
     icon: simplehold,
+  },
+  {
+    name: "tangem",
+    icon: tangem,
   },
   {
     name: "torus",
